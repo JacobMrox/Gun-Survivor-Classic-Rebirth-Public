@@ -17,6 +17,7 @@ In short, this project aims to:
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ff9dddc9-73c1-4b38-9ece-df09b8459819" />
 
 * ~~Remove CD check~~
+* ~~60 FPS Lock to fix door transitions~~
 * ~~Add ability to play in window mode~~
 * ~~Show window border in windowed mode~~
 * ~~Add ability to lock mouse in window~~
