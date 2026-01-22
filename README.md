@@ -14,9 +14,6 @@ In short, this project aims to:
 
 # Project Status
 
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ff9dddc9-73c1-4b38-9ece-df09b8459819" />
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ab899a4f-0aec-4f0d-95aa-dddbb1cae2f7" />
-
 * ~~Remove CD check~~
 * ~~60 FPS Lock to fix door transitions~~
 * ~~Add ability to play in window mode~~
@@ -33,3 +30,8 @@ In short, this project aims to:
 * Fix enemy AI/Animations
 * Raw Input + Dinput
 * Add a proper in-game options menu backed by d3d8.ini
+
+# Screenshots
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ff9dddc9-73c1-4b38-9ece-df09b8459819" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ab899a4f-0aec-4f0d-95aa-dddbb1cae2f7" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b2207f70-ce1c-4de8-8d1a-f6f3e3854d15" />
